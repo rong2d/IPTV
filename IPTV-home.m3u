@@ -4,6 +4,9 @@
 
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
 http://192.168.2.1:4022/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="107" tvg-name="新闻综合" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="上海",新闻综合HD
+http://192.168.2.1:4022/udp/233.18.204.57:5140
+
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
 http://192.168.2.1:4022/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
@@ -32,7 +35,7 @@ http://192.168.2.1:4022/udp/239.45.3.134:5140
 http://192.168.2.1:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.2.1:4022/udp/239.45.3.131:5140
-#EXTINF:-1 group-title="上海",上海教育
+#EXTINF:-1 tvg-id="116" tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="上海",上海教育
 http://192.168.2.1:4022/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 http://192.168.2.1:4022/udp/239.45.0.16:5140
