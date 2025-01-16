@@ -2,7 +2,7 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻综合" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="上海",新闻综合
 http://192.168.2.1:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
 http://192.168.2.1:4022/udp/239.45.3.236:5140
