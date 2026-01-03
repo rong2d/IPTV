@@ -50,7 +50,7 @@ http://192.168.2.1:4022/udp/233.18.204.170:5140
 http://192.168.2.1:4022/udp/233.18.204.171:5140
 #EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="CHC",CHC家庭影院HD
 http://192.168.2.1:4022/udp/233.18.204.173:5140
-#EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电1影HD
+#EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
 http://192.168.2.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影HD
 http://192.168.2.1:4022/udp/233.18.204.175:5140
