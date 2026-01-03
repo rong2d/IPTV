@@ -48,6 +48,9 @@ http://192.168.2.1:4022/udp/233.18.204.116:5140
 http://192.168.2.1:4022/udp/233.18.204.170:5140
 #EXTINF:-1 group-title="BesTV",BesTV4K 儿童
 http://192.168.2.1:4022/udp/233.18.204.171:5140
+#EXTINF:-1 group-title="BesTV",BesTV 直播
+http://192.168.2.1:4022/udp/233.18.204.160:5140
+
 #EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="CHC",CHC家庭影院HD
 http://192.168.2.1:4022/udp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
