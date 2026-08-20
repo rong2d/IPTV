@@ -17,17 +17,17 @@ http://192.168.2.1:4022/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",都市剧场
 http://192.168.2.1:4022/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
-http://192.168.2.1:4022/udp/233.18.204.54:5140
+#http://192.168.2.1:4022/udp/233.18.204.54:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.2.1:4022/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://192.168.2.1:4022/udp/233.18.204.115:5140
 #EXTINF:-1 tvg-id="96" tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="上海",动漫秀场
-http://192.168.2.1:4022/udp/233.18.204.46:5140
+#http://192.168.2.1:4022/udp/233.18.204.46:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.2.1:4022/udp/233.18.204.45:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
-http://192.168.2.1:4022/udp/233.18.204.44:5140
+#http://192.168.2.1:4022/udp/233.18.204.44:5140
 #EXTINF:-1 tvg-id="116" tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="上海",上海教育
 http://192.168.2.1:4022/udp/233.18.204.63:5140
 #EXTINF:-1 tvg-id="99" tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="上海",法治天地
@@ -47,7 +47,7 @@ http://192.168.2.1:4022/udp/233.18.204.116:5140
 #EXTINF:-1 group-title="BesTV",BesTV4K 纪实
 http://192.168.2.1:4022/udp/233.18.204.170:5140
 #EXTINF:-1 group-title="BesTV",BesTV4K 儿童
-http://192.168.2.1:4022/udp/233.18.204.171:5140
+#http://192.168.2.1:4022/udp/233.18.204.171:5140
 #EXTINF:-1 group-title="BesTV",BesTV 直播
 http://192.168.2.1:4022/udp/233.18.204.160:5140
 
@@ -128,7 +128,7 @@ http://192.168.2.1:4022/udp/233.18.204.172:5140
 #EXTINF:-1 tvg-id="70" tvg-name="延边卫视" tvg-logo="" group-title="卫视",延边卫视
 http://192.168.2.1:4022/udp/233.18.204.155:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://192.168.2.1:4022/udp/233.18.204.113:5140
+#http://192.168.2.1:4022/udp/233.18.204.113:5140
 
 #EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.2.1:4022/udp/233.18.204.28:5140
@@ -171,7 +171,7 @@ http://192.168.2.1:4022/udp/233.18.204.83:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV 4K
 http://192.168.2.1:4022/udp/233.18.204.188:5140
 #EXTINF:-1 tvg-id="1976" tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="央视",卡酷少儿
-http://192.168.2.1:4022/udp/233.18.204.109:5140
+#http://192.168.2.1:4022/udp/233.18.204.109:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CETV1" tvg-logo="" group-title="央视",CETV1
 http://192.168.2.1:4022/udp/233.18.204.98:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CETV2" tvg-logo="" group-title="央视",CETV2
@@ -181,7 +181,7 @@ http://192.168.2.1:4022/udp/233.18.204.111:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CETV早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CETV早期教育
 http://192.168.2.1:4022/udp/233.18.204.187:5140
 #EXTINF:-1 tvg-id="20" tvg-name="乐游HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",乐游HD
-http://192.168.2.1:4022/udp/233.18.204.47:5140
+#http://192.168.2.1:4022/udp/233.18.204.47:5140
 #EXTINF:-1 tvg-id="79" tvg-name="风云足球" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYZQ.png" group-title="央视",风云足球HD
 http://192.168.2.1:4022/udp/233.18.204.176:5140
 #EXTINF:-1 tvg-id="80" tvg-name="央视台球" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSTQ.png" group-title="央视",央视台球HD
@@ -214,8 +214,8 @@ http://192.168.2.1:4022/udp/233.18.204.43:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://192.168.2.1:4022/udp/233.18.204.104:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://192.168.2.1:4022/udp/233.18.204.151:5140
-EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷少儿
+#http://192.168.2.1:4022/udp/233.18.204.151:5140
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷少儿
 http://192.168.2.1:4022/udp/233.18.204.109:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.2.1:4022/udp/233.18.204.231:5140
